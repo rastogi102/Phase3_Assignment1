@@ -30,7 +30,7 @@ VALUES
     (2, N'MATH201', '2023-08-02'),
     (3, N'ENG101', '2023-08-03'),
     (4, N'PHY301', '2023-08-04'),
-    (5, N'HIST101', '2023-08-05'),
+    (5, N'HIST101', '2023-08-05');
 	
 -- For show the data .
 	SELECT * from StudentRegistrations
